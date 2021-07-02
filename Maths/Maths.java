@@ -34,5 +34,7 @@ class Diff
 	public  void show()
 	{
 		System.out.println("Difference is :"+(a-b));
+		System.out.println("the quick brown fox jumps over the lazy dog.");
+		System.out.println("Ashish Khati");
 	}
 }
