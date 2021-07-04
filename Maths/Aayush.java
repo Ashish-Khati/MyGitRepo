@@ -1,5 +1,5 @@
 package com.Maths;
-public  class Ayush
+public  class Aayush
 {
 	public static void main(String args[])
 	{
